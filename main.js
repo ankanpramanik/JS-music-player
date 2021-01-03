@@ -24,123 +24,123 @@ let track_list = [
   {
     name: "Animals",
     artist: "Maron V",
-    image: "C:\Users\Ankan-HP\Desktop\Art\rihanna_sample.jpg",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Animals.mp3"
-  },
-  {
-    name: "Another Day",
-    artist: "Dream Theatre",
-    image: "C:/Users/Ankan-HP/Desktop/webdev/project/song player/Songs/Another_day.jpg",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Another day.mp3"
-  },
-  {
-    name: "Boulevard of Borken Dreams",
-    artist: "Green Day",
-    image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Boulevard Of Broken Dreams.jfif",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Boulevard Of Broken Dreams.mp3",
-  },
-  {
-    name: "Carnival of Rust",
-    artist: "Poets of the Fall",
-    image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Carnival of rust.jpg",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Carnival of rust.mp3",
-  },
-  {
-    name: "Counting Stars",
-    artist: "One Republic",
-    image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Counting Stars.mp3",
-  },
-  {
-    name: "Everglow",
-    artist: "Coldplay",
-    image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Everglow hymn for the wknd.png",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Everglow.mp3",
-  },
-  {
-    name: "Fix You",
-    artist: "Coldplay",
-    image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Fix you.png",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Fix You.mp3",
-  },
-  {
-    name: "Gravity",
-    artist: "Coldplay",
-    image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Gravity.mp3",
-  },
-  {
-    name: "Hymn of The Weekend",
-    artist: "Coldplay",
-    image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Everglow hymn for the wknd.png",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Hymn For The Weekend.mp3",
-  },
-  {
-    name: "Love You Goodbye",
-    artist: "Coldplay",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Love You Goodbye.mp3",
-  },
-  {
-    name: "Memories",
-    artist: "Maroon V",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Memories.mp3",
-  },
-  {
-    name: "Perfect",
-    artist: "Ed Sheeran",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Perfect.mp3",
-  },
-  {
-    name: "Sign of the Times",
-    artist: "Harry Styles",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Sign of the Times.mp3",
-  },
-  {
-    name: "Something Just Like This",
-    artist: "The Chainsmokers",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Something Just Like This.mp3",
-  },
-  {
-    name: "Sound of Silence",
-    artist: "By Simon and Garfunkel",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Sound Of Silence.mp3",
-  },
-  {
-    name: "Stand by Me",
-    artist: "John Lennon",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\stand by met.mp3",
-  },
-  {
-    name: "Stressed Out",
-    artist: "Twenty One Pilots",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Stressed Out.mp3",
-  },
-   {
-    name: "Summer Love",
-    artist: "One Direction",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Summer Love.mp3",
-  },
-  {
-    name: "Sun Is Shining",
-    artist: "Axwell Ingrosso",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Sun Is Shining.mp3.mp3",
-  },
-  {
-    name: "The Scientist",
-    artist: "Coldplay",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\The Scientist.mp3",
-  },  
+    image: " url('/home/chakra/ankanjs/JS-music-player/Songs/Animals.png')",
+    path: "/home/chakra/ankanjs/JS-music-player/Songs/Animals.mp3"
+  }
+  // {
+  //   name: "Another Day",
+  //   artist: "Dream Theatre",
+  //   image: "C:/Users/Ankan-HP/Desktop/webdev/project/song player/Songs/Another_day.jpg",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Another day.mp3"
+  // },
+  // {
+  //   name: "Boulevard of Borken Dreams",
+  //   artist: "Green Day",
+  //   image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Boulevard Of Broken Dreams.jfif",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Boulevard Of Broken Dreams.mp3",
+  // },
+  // {
+  //   name: "Carnival of Rust",
+  //   artist: "Poets of the Fall",
+  //   image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Carnival of rust.jpg",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Carnival of rust.mp3",
+  // },
+  // {
+  //   name: "Counting Stars",
+  //   artist: "One Republic",
+  //   image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Counting Stars.mp3",
+  // },
+  // {
+  //   name: "Everglow",
+  //   artist: "Coldplay",
+  //   image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Everglow hymn for the wknd.png",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Everglow.mp3",
+  // },
+  // {
+  //   name: "Fix You",
+  //   artist: "Coldplay",
+  //   image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Fix you.png",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Fix You.mp3",
+  // },
+  // {
+  //   name: "Gravity",
+  //   artist: "Coldplay",
+  //   image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Gravity.mp3",
+  // },
+  // {
+  //   name: "Hymn of The Weekend",
+  //   artist: "Coldplay",
+  //   image: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Everglow hymn for the wknd.png",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Hymn For The Weekend.mp3",
+  // },
+  // {
+  //   name: "Love You Goodbye",
+  //   artist: "Coldplay",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Love You Goodbye.mp3",
+  // },
+  // {
+  //   name: "Memories",
+  //   artist: "Maroon V",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Memories.mp3",
+  // },
+  // {
+  //   name: "Perfect",
+  //   artist: "Ed Sheeran",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Perfect.mp3",
+  // },
+  // {
+  //   name: "Sign of the Times",
+  //   artist: "Harry Styles",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Sign of the Times.mp3",
+  // },
+  // {
+  //   name: "Something Just Like This",
+  //   artist: "The Chainsmokers",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Something Just Like This.mp3",
+  // },
+  // {
+  //   name: "Sound of Silence",
+  //   artist: "By Simon and Garfunkel",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Sound Of Silence.mp3",
+  // },
+  // {
+  //   name: "Stand by Me",
+  //   artist: "John Lennon",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\stand by met.mp3",
+  // },
+  // {
+  //   name: "Stressed Out",
+  //   artist: "Twenty One Pilots",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Stressed Out.mp3",
+  // },
+  //  {
+  //   name: "Summer Love",
+  //   artist: "One Direction",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Summer Love.mp3",
+  // },
+  // {
+  //   name: "Sun Is Shining",
+  //   artist: "Axwell Ingrosso",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\Sun Is Shining.mp3.mp3",
+  // },
+  // {
+  //   name: "The Scientist",
+  //   artist: "Coldplay",
+  //   image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  //   path: "C:\\Users\\Ankan-HP\\Desktop\\webdev\\project\\song player\\Songs\\The Scientist.mp3",
+  // },  
 ];
 
 function random_bg_color() {
